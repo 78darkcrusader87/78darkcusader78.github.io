@@ -1,0 +1,13 @@
+body {
+    background-image: url('skull.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    position: static;
+    font-style: inherit;
+}
